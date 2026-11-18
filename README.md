@@ -244,7 +244,7 @@ The source code for Bashonu is kept in a **private repository** to protect the p
 - give a **live walkthrough** of the codebase and architecture over a call, or
 - grant **temporary read-only access** to the private repository for review.
 
-📬 Contact: **[your-email@example.com](mailto:your-email@example.com)** · **[LinkedIn](https://www.linkedin.com/in/your-profile)** <!-- Replace with your details -->
+📬 Contact: **[kashanali.akhsss@gmail.com](mailto:kashanali.akhsss@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/kashan-ali-khan)**
 
 ---
 
