@@ -224,23 +224,15 @@ erDiagram
 
 🌐 **Live deployment:** [bashonu.com](https://bashonu.com) <!-- Replace or confirm the live URL before publishing -->
 
-### Walkthrough
-
-![Demo](./assets/demo.gif)
-
 ### Screenshots
 
-| Home: fuzzy search and discovery | Song view: Paper theme |
+| Home: fuzzy search, language chips & discovery | Song view: Roman ⇄ Arabic script toggle & reader controls |
 |:---:|:---:|
-| ![Home page with search, language chips and featured rows](./assets/home.png) | ![Lyrics on procedurally generated paper](./assets/song-paper-theme.png) |
+| ![Home page with search, language chips and featured rows](./assets/home.png) | ![Song lyrics with script toggle, font zoom and fullscreen controls](./assets/song-lyrics.png) |
 
-| Roman ⇄ Arabic script toggle | Admin moderation dashboard |
+| Embedded YouTube playback & correction toolbar | Poet profile & attributed catalogue |
 |:---:|:---:|
-| ![Same song shown in Nastaliq script](./assets/script-toggle.gif) | ![Admin feedback analytics and report queue](./assets/admin-dashboard.png) |
-
-| Poet profile |
-|:---:|
-| ![Poet biography, memorable stanzas and song list](./assets/poet-page.png) |
+| ![Lyrics with embedded YouTube player and reader toolbar](./assets/song-youtube.png) | ![Poet profile page with filterable song catalogue](./assets/poet-page.png) |
 
 ---
 
